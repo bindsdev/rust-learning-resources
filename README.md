@@ -52,3 +52,6 @@ These resources can act as references for when you need assistances with other s
 2. [The Rustup Book](https://rust-lang.github.io/rustup/)
 3. [The Rustc Book](https://doc.rust-lang.org/rustc/what-is-rustc.html)
 4. [Rust Cheat Sheet](https://cheats.rs)
+5. [The Rustdoc Book](https://doc.rust-lang.org/rustdoc/index.html)
+6. [The Rust Edition Guide](https://doc.rust-lang.org/edition-guide/index.html)
+7. [The Rust Unstable Book](https://doc.rust-lang.org/nightly/unstable-book/index.html)
