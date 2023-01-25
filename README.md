@@ -38,7 +38,10 @@ A list of my recommended resources for learning Rust, in addition with a learnin
 - **NOTES:**
   - This book is an incredible compliment to the Crust of Rust series. It introduces some other topics that have not yet been covered in the Crust of Rust series.
   - Highly recommended
-9. [The Rustonomicon](https://doc.rust-lang.org/stable/nomicon/)
+9. [Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/)
+- **NOTES:**
+  - Highly recommended
+10. [The Rustonomicon](https://doc.rust-lang.org/stable/nomicon/)
 - **NOTES:**
   - By this point, you will have decent experience with Rust. But, you might be wondering about `unsafe` Rust and the deeper, darker parts of the language. This book will tell you all about those topics. It also explains why `unsafe` Rust exists and how it is supposed to interact with safe and other unsafe Rust code. 
   - Some topics in this book were covered in Crust of Rust.
