@@ -58,3 +58,4 @@ These resources can act as references for when you need assistances with other s
 5. [The Rustdoc Book](https://doc.rust-lang.org/rustdoc/index.html)
 6. [The Rust Edition Guide](https://doc.rust-lang.org/edition-guide/index.html)
 7. [The Rust Unstable Book](https://doc.rust-lang.org/nightly/unstable-book/index.html)
+8. [The Little Book of Rust Macros](https://danielkeep.github.io/tlborm/book/)
