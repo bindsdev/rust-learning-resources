@@ -63,3 +63,4 @@ These resources can act as references for when you need assistances with other s
 6. [The Rust Edition Guide](https://doc.rust-lang.org/edition-guide/index.html)
 7. [The Rust Unstable Book](https://doc.rust-lang.org/nightly/unstable-book/index.html)
 8. [The Little Book of Rust Macros](https://danielkeep.github.io/tlborm/book/)
+9. [Rust Idioms, Design Patterns, and Anti-Patterns](https://rust-unofficial.github.io/patterns/intro.html)
