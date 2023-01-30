@@ -46,6 +46,10 @@ A list of my recommended resources for learning Rust, in addition with a learnin
   - By this point, you will have decent experience with Rust. But, you might be wondering about `unsafe` Rust and the deeper, darker parts of the language. This book will tell you all about those topics. It also explains why `unsafe` Rust exists and how it is supposed to interact with safe and other unsafe Rust code. 
   - Some topics in this book were covered in Crust of Rust.
   - Reading this book is not a recommendation. It is a requirement in my opinion.
+11. [Visualizing memory layout of Rust's data types](https://www.youtube.com/watch?v=rDoqT-a6UFg)
+- **NOTES:**
+  - Highly recommended
+  - It is good to know how Rust lays out builtin and custom types in memory.
   
 # Additional Resources
 
